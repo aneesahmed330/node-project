@@ -1,0 +1,15 @@
+{
+  "name" : "My Express Application - dev mode",
+  "Private_key" : "PRIVATE_KEY",
+  "dev-mail-server" : {
+    "HOST" : "xyz.mail.server",
+    "PASS" : "dev_mail_pass",
+    "PORT" : "465",
+    "tls" : true
+  },
+  "db-config" : {
+    "HOST" : "127.0.0.1",
+    "PORT" : 8000,
+    "DB_NAME" : "dev-db"
+  }
+}

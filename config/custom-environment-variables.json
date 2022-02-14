@@ -1,0 +1,8 @@
+{
+  "prod-mail-server" : {
+    "PASS" : "prod_mail_pass"
+  },
+  "dev-mail-server" : {
+    "PASS" : "dev_mail_pass"
+  }
+}

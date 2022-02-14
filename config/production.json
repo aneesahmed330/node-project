@@ -1,0 +1,14 @@
+{
+  "name" : "My Express Application - prod mode",
+  "prod-mail-server" : {
+    "HOST" : "abc.mail.server",
+    "PASS" : "prod_mail_pass",
+    "PORT" : "585",
+    "tls" : true
+  },
+  "db-config" : {
+    "HOST" : "127.0.0.1",
+    "PORT" : 8000,
+    "DB_NAME" : "dev-db"
+  }
+}
